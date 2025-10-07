@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "SSD1306_OLED": "github:tinkertanker/pxt-oled-ssd1306#v2.0.18"
+        "SSD1306_OLED": "github:tinkertanker/pxt-oled-ssd1306#v2.0.18",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
